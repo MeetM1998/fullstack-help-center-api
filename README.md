@@ -15,7 +15,7 @@ This is the frontend part of the Help Center application built using React and T
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd help-center-frontend
+   cd frontend
 
 2. **Install the dependencies:**
     ### `npm install`
